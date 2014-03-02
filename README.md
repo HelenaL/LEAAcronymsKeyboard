@@ -11,7 +11,7 @@ If you need complete example please see /example folder.
 
 ###How it looks
 <p align="center">
-  <img src="#" alt="lea example"/>
+  <img src="https://github.com/HelenaL/LEAAcronymsKeyboard/blob/gh-pages/ReadMe/screenshot.png" alt="lea example"/>
 </p>
 
 ###Customization
